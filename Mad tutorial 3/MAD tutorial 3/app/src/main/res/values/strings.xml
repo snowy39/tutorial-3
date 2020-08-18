@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="activity2Name">Second Activity</string>
+
+    <string name="number1">Number1</string>
+    <string name="number2">Number2</string>
+    <string name="submit">OK=k</string>
+    <string name="multiply">*</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="divide">/</string>
+    <string name="result">result</string>
+    <string name="select_the_operation">add, subtract, multiply, divide</string>
+
+
+</resources>
